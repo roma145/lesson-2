@@ -1,0 +1,158 @@
+.body{
+    position: relative;
+    width: 1400px;
+    height: 595px;
+
+    background: #FFFFFF;
+}
+.text{
+    Width: 1400px;
+    Height: 250px;
+}
+.first{
+    position: absolute;
+    width: 409px;
+    height: 38px;
+    left: 496px;
+    top: 100px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #212121;
+}
+.hr{
+    background-color: #E72424;
+    position: absolute;
+    width: 64px;
+    height: 2px;
+    left: 668px;
+    top: 180px;
+    
+    border: 1px;
+}
+.second{
+    position: absolute;
+    width: 363px;
+    height: 19px;
+    left: 519px;
+    top: 195px;
+
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 30px;
+
+    color: #86878B;
+}
+.square{
+    height: 225px;
+    width: 350px;
+}
+.left{
+    float: left;
+    margin-right: 32px;
+    margin-left: 143px;
+}
+.circle{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    mix-blend-mode: normal;
+    border: 1px solid #E72424;
+    margin: 0 auto;
+    margin-top: 67px;
+}
+.lamp{
+    width: 22px;
+    height: 30px;
+    left: 164px;
+    top: 20px;
+    margin-top: 20px;
+    margin-right:24px;
+    margin-bottom: 20px;
+    margin-left: 24px;
+}
+.center{
+    float: left;
+    margin-right: 32px;
+    margin-left: 0px;
+}
+.keyboard{
+    height: 26px;
+    width: 36px;
+    left: 157px;
+    top: 22px;
+    border-radius: 0px;
+    margin-top: 22px;
+    margin-right:525px;
+    margin-bottom: 22px;
+    margin-left: 17px;
+}
+.right{
+    float: left;
+    margin-left: 0px;
+    margin-right: 143px;
+}
+.storm{
+    height: 33px;
+    width: 21px;
+    margin-top: 19px;
+    margin-right: 24px;
+    margin-bottom: 18px;
+    margin-left: 25px;
+}
+.h3{
+    float: left;
+    margin-left: auto;
+}
+.texth2{
+    font-family: 'Open Sans', sans-serif;
+    height: 29px;
+    width: 189px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    font-weight: 700;
+    color: #333333;
+}
+.texth3{
+    font-family: 'Open Sans', sans-serif;
+    height: 29px;
+    width: 189px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    font-weight: 700;
+    color: #333333;
+    text-align: center;
+}
+.texth4{
+    font-family: 'Open Sans', sans-serif;
+    height: 29px;
+    width: 189px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    font-weight: 700;
+    color: #333333;
+    text-align: center;
+}
+.lorem{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    text-align: center;
+    height: 60px;
+    width: 350px;
+    left: 0px;
+    top: 145px;
+    margin: auto;
+}
